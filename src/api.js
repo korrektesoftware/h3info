@@ -1,3 +1,6 @@
+// Projekt installiert mit:
+// npm install express netlify-lambda serverless-http
+
 const express = require('express');
 const serverless = require('serverless-http');
 const app = express();
